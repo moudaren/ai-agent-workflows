@@ -1,0 +1,2 @@
+NEW "Hello world"
+NEW "Welcome to the game"

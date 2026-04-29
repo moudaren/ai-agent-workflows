@@ -1,0 +1,27 @@
+# Core LLM SDK
+
+openai>=1.0.0
+
+# Environment management
+
+python-dotenv>=1.0.0
+
+# HTTP requests (for future tool/API expansion)
+
+requests>=2.31.0
+
+# Data processing
+
+pydantic>=2.0.0
+
+# Optional: better logging (useful for Agent workflows)
+
+loguru>=0.7.0
+
+# Optional: numerical simulation (for crafting / probability tools)
+
+numpy>=1.24.0
+
+# Optional: structured data handling
+
+orjson>=3.9.0

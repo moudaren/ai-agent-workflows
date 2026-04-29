@@ -56,7 +56,7 @@ Task → Decomposition → Tool Use → LLM Reasoning → Output Validation
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/ai-agent-workflows.git
+git clone https://github.com/moudaren/ai-agent-workflows
 cd ai-agent-workflows
 ```
 
